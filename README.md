@@ -79,7 +79,7 @@
 
 #### 3. Create a NodePort Service to expose the application
 
-#### 4. Access the application from a browser using:
+#### 4. Access the application from a browser using: http://52.53.192.4:31037
 
 #### 5. Verify that the application output is visible in the browser
 
@@ -88,4 +88,18 @@
 #### 7. Create a README.md file and add:
 
 #### 8. Push theREADME.md file to a Git repository and submit the repository link
- ![](./img/browser-output.png)
+ 
+---
+
+##  Screenshots :
+
+### Pods and Deployment Status
+
+![](./img/pods-deployment-status.png)
+
+### NodePort Service
+
+![](./img/nodeport-service-status.png)
+
+###  Browser Output
+![](./img/browser-output.png)
