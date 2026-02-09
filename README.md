@@ -75,7 +75,7 @@
 ### Task:
 #### 1. Create a Deployment that runs the application with at least 2 pods.
 
-#### 2. Create a Deployment that runs the application with at least 2 pods.
+#### 2. Ensure all pods are created successfully and are in Running state.
 
 #### 3. Create a NodePort Service to expose the application
 
