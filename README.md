@@ -87,7 +87,7 @@
 
 #### 7. Create a README.md file and add:
 
-#### 8. Push theREADME.md file to a Git repository and submit the repository link
+#### 8. Push the README.md file to a Git repository and submit the repository link
  
 ---
 
